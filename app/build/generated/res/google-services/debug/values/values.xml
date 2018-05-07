@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">995211995699-sfg50vq3f265r36inrpr0gfnr52dsdsi.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://fir-learner-d523b.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">995211995699</string>
+    <string name="google_api_key" translatable="false">AIzaSyCmbaGGAboR3aZ9mtzlMZFa_4N6xIzWd2w</string>
+    <string name="google_app_id" translatable="false">1:995211995699:android:27f8bcf2e3449fab</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCmbaGGAboR3aZ9mtzlMZFa_4N6xIzWd2w</string>
+    <string name="google_storage_bucket" translatable="false">fir-learner-d523b.appspot.com</string>
+    <string name="project_id" translatable="false">fir-learner-d523b</string>
+</resources>
